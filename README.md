@@ -1,7 +1,7 @@
 # PersonalAssistant
 It is an Personal Assistant, capable to perform many tasks with some unique features, that you haven'e seen yet....  
 
-![alt text](thumbnail.jpg)
+
 
 ## Features / Tasks it can perform:  
 1. Game (eg, Rock Paper Scissor with GUI)  
@@ -208,8 +208,6 @@ It is an Personal Assistant, capable to perform many tasks with some unique feat
 
 
 
-See also the list of [contributors](https://github.com/roshan9419/PersonalAssistantChatbot/graphs/contributors) who have participated in this project.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
