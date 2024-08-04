@@ -342,7 +342,7 @@ if __name__ == '__main__':
 
 	userPIC = Label(root4, bg=background, image=avtr1)
 	userPIC.pack(pady=(40, 10))
-	usernameLbl = Label(root4, text="Pranav Ransing", font=('Arial Bold',15), bg=background, fg='#85AD4F')
+	usernameLbl = Label(root4, text="Punam", font=('Arial Bold',15), bg=background, fg='#85AD4F')
 	usernameLbl.pack(pady=(0, 70))
 
 	Label(root4, text="Your account has been successfully activated!", font=('Arial Bold',15), bg=background, fg='#303E54', wraplength=300).pack(pady=10)
